@@ -1,0 +1,5 @@
+__pycache__/
+*.pc
+*.pyc
+*.pyo
+Thumbs.db
