@@ -1,6 +1,6 @@
-# Tools:Q
+# Tools:Q Animation
 
-This is a Blender addons created by Project Studio Q.
+This is a Blender addons for creating animations developed by Project Studio Q inc.
 
 ## License
 
