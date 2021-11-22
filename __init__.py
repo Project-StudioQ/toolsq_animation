@@ -5,7 +5,7 @@ bl_info = {
     "blender": (2, 93, 3),
     "description": "Tools:Q Animation",
     "warning": "",
-    "support": "TESTING",
+    "support": "COMMUNITY",
     "wiki_url": "",
     "category": "Development"
 }
