@@ -7,7 +7,7 @@ bl_info = {
     "warning": "",
     "support": "COMMUNITY",
     "wiki_url": "",
-    "category": "Development"
+    "category": "Animation"
 }
 
 import importlib
