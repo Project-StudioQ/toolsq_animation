@@ -6,6 +6,8 @@
 
 ## インストール方法
 
+![インストール画面](install.png "インストール方法")
+
 ## 実装機能一覧
 
 - [Align Objects](https://github.com/Project-StudioQ/align_objects)
