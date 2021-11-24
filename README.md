@@ -9,8 +9,8 @@
 ![インストール画面](install.png "インストール方法")
 
 ## 動作確認環境
-- windows 10 Pro
-- Blender 2.93.3
+- Windows 10 Pro
+- Blender 2.93.3, Blender 2.93.5
 
 ## 実装機能一覧
 
