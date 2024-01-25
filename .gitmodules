@@ -7,3 +7,6 @@
 [submodule "camera_extends"]
 	path = camera_extends
 	url = git@github.com:Project-StudioQ/camera_extends
+[submodule "pickup"]
+	path = pickup
+	url = https://github.com/Project-StudioQ/pickup
