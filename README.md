@@ -17,6 +17,7 @@
 - [Align Objects](https://github.com/Project-StudioQ/align_objects)
 - [Animation Offset Shift](https://github.com/Project-StudioQ/animation_shift)
 - [Camera Extends](https://github.com/Project-StudioQ/camera_extends)
+- [Pickup](https://github.com/Project-StudioQ/pickup)
 
 ## ライセンス
 

@@ -17,6 +17,7 @@ This is a Blender addons for creating animations developed by Project Studio Q i
 - [Align Objects](https://github.com/Project-StudioQ/align_objects/blob/master/README.en.md)
 - [Animation Offset Shift](https://github.com/Project-StudioQ/animation_shift/blob/master/README.en.md)
 - [Camera Extends](https://github.com/Project-StudioQ/camera_extends/blob/master/README.en.md)
+- [Pickup](https://github.com/Project-StudioQ/pickup/blob/master/README.en.md)
 
 ## License
 
