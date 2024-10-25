@@ -10,7 +10,8 @@
 
 ## 動作確認環境
 
-Windows 10 Pro
+* Windows 10 Pro
+
 Blenderの対応バージョンに各[Releases](https://github.com/Project-StudioQ/toolsq_animation/releases)をご確認ください。
 
 ## 実装機能一覧
