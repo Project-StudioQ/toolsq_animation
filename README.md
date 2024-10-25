@@ -8,7 +8,10 @@
 
 ![インストール画面](install.png "インストール方法")
 
-Blenderの対応バージョンについては各[Release](https://github.com/Project-StudioQ/toolsq_animation/releases)をご確認ください。
+## 動作確認環境
+
+Windows 10 Pro
+Blenderの対応バージョンに各[Releases](https://github.com/Project-StudioQ/toolsq_animation/releases)をご確認ください。
 
 ## 実装機能一覧
 
