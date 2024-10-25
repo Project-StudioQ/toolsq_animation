@@ -8,9 +8,7 @@
 
 ![インストール画面](install.png "インストール方法")
 
-## 動作確認環境
-- Windows 10 Pro
-- Blender 2.93.3, Blender 2.93.5, Blender 3.1, Blender 3.3
+Blenderの対応バージョンについては各[Release](https://github.com/Project-StudioQ/toolsq_animation/releases)をご確認ください。
 
 ## 実装機能一覧
 

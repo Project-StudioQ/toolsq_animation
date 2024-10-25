@@ -8,9 +8,7 @@ This is a Blender addons for creating animations developed by Project Studio Q i
 
 ![Screenshot](install.png "How to Install")
 
-## Testing Environment
-- Windows 10 Pro
-- Blender 2.93.3, Blender 2.93.5, Blender 3.1, Blender 3.3
+Please check supported Blender version in [Release](https://github.com/Project-StudioQ/toolsq_animation/releases).
 
 ## Addons
 
