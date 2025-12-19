@@ -2,10 +2,10 @@
 
 [English](README.en.md)
 
-## 概要
+**※こちらのアドオンは古いアドオンです、現在は更新されていません。<br>**
+**新規のアドオンは [こちら](https://github.com/Project-StudioQ/toolsq_index) をご確認ください。**
 
-※こちらのアドオンは古いアドオンです、現在は更新されていません
-新規のアドオンは [こちら](https://github.com/Project-StudioQ/toolsq_index) をご確認ください。
+## 概要
 
 プロジェクトスタジオQで作成、使用している Blender アニメーター向けのアドオンです。
 
