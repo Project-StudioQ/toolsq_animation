@@ -2,6 +2,11 @@
 
 [日本語](README.md)
 
+**※This add-on is outdated and is no longer being updated.<br>**
+**Please check [here](https://github.com/Project-StudioQ/toolsq_index) for the new add-on.**
+
+## Overview
+
 This is a Blender addons for creating animations developed by Project Studio Q inc.
 
 ## How to Install

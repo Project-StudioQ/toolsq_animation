@@ -2,6 +2,11 @@
 
 [English](README.en.md)
 
+**※こちらのアドオンは古いアドオンです、現在は更新されていません。<br>**
+**新規のアドオンは [こちら](https://github.com/Project-StudioQ/toolsq_index) をご確認ください。**
+
+## 概要
+
 プロジェクトスタジオQで作成、使用している Blender アニメーター向けのアドオンです。
 
 ## インストール方法
